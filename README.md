@@ -17,3 +17,14 @@
 [Sebastian Kurz](https://twitter.com/sebastiankurz)
 
 [HC Strache](https://twitter.com/HCStracheFP)
+
+## Wahlumfragen
+
+https://neuwal.com/2017/05/09/wahlumfrage-oesterreich-fpoe-29-spoe-28-oevp-21-gruene-11-neos-7-ts-1-marketder-standard-n400max-4-90-09-05-2017/
+
+http://www.nationalratswahl.at/umfragen.html
+
+http://wahl13.bmi.gv.at
+
+https://de.wikipedia.org/wiki/Nationalratswahl_in_Österreich_2017
+

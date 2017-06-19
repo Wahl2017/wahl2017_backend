@@ -10,6 +10,8 @@
 
 [krone.at / Nachrichten](http://www.krone.at/nachrichten/rss.html)
 
+[news.orf.at / ORF](http://rss.orf.at/news.xml)
+
 ## Twitter Konten der Spitzenkandidaten
 
 [Christian Kern](https://twitter.com/kernchri)

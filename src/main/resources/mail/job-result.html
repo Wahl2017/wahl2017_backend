@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<title th:remove="all">Result of automatic data collection job run</title>
+</head>
+<body>
+	<h1>An automated data collection task <span th:text="${job.jobState}">Finshed</span> at: <span th:text="${job.finished}"></span></h1>
+	<table>
+		<thead>
+			<tr>
+				<td>state</td>
+				<td>time</td>
+				<td>info</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr th:each="log : ${job.log}">
+				<td th:text="${log.state}">state</td>
+				<td th:text="${log.timestamp}">time</td>
+				<td th:text="${log.log}">info</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

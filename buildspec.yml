@@ -1,0 +1,15 @@
+version: 0.1
+
+phases:
+  install:
+    commands:
+  build:
+    commands:
+      - mvn package -Dmaven.test.skip=true
+  post_build:
+    commands:
+artifacts:
+  files: 
+    - 'target/service-0.0.1-SNAPSHOT.jar'
+  
+    

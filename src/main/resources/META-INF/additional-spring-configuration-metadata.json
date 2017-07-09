@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "twitter.access.secret",
+    "type": "java.lang.String",
+    "description": "You get this information at apps.twitter.com"
+  },
+  {
+    "name": "twitter.access.token",
+    "type": "java.lang.String",
+    "description": "You get this information at apps.twitter.com"
+  },
+  {
+    "name": "wahl2017.news.sources",
+    "type": "java.lang.String",
+    "description": "An array RSS feed URLs"
+  },
+  {
+    "name": "wahl2017.news.names",
+    "type": "java.lang.String",
+    "description": "A description for 'wahl2017.news.names'"
+  },
+  {
+    "name": "wahl2017.election.short.code",
+    "type": "java.lang.String",
+    "description": "This configures two things: (1) an election entity with the short code must be present, if not so a scenario service injects it, (2) the controllers use it do determine the event which is currently active."
+  },
+  {
+    "name": "wahl2017.email.addbcc",
+    "type": "java.lang.String",
+    "description": "If set every e-mail sent out has this address in BCC"
+  },
+  {
+    "name": "wahl2017.email.cron",
+    "type": "java.lang.String",
+    "description": "The result of cron job runs is e-mailed to there"
+  },
+  {
+    "name": "wahl2017.email.sender",
+    "type": "java.lang.String",
+    "description": "Outgoing e-mail is sent from this address"
+  }
+]}
